@@ -1,0 +1,62 @@
+.header_container{
+    text-align: center;
+        display: block;
+       font-size: 0.875em;
+       
+}
+.header2_container{
+    text-align: center;
+    display: block;
+    font-size: 0.875em;
+    background-color: #FFFBF1;
+    color: #004D4D;
+
+    
+}
+h1{
+    text-align: center;
+}
+.contenuto_principale{
+    text-align: center;
+    
+}
+.focaccia_container{
+    text-align: center;
+    border-radius: 10px;
+    font: 100%;
+    margin-top: 5px;
+    color: gray;
+    
+}
+header{
+    text-align: center;
+}
+body{
+    text-align: center;
+    
+    
+    
+}
+.container{
+    text-align: center;
+    height: 10vh;
+    color: #B5460F;
+    
+}
+.fake_link{
+   text-align: center;
+         
+}
+.list_section li{
+    text-align: center;
+
+}
+.method{
+ text-align: center;
+ 
+
+}
+.hr_ingredients{
+    color:#d0ebe8 ;
+}
+
